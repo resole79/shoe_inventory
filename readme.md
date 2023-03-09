@@ -1,7 +1,7 @@
 ## Shoe Inventory  
 
 Program that will read from the text file inventory.txt and
-perform the following on the data: read shoes data, re-stock Shoe, seach shoe
+perform the following on the data: read shoes data, re-stock shoe, search shoe
 
 #### Prerequisites
 You will need the following software to run the Shoe Inventory :
