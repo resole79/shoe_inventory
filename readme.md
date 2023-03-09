@@ -26,7 +26,7 @@ git clone https://github.com/resole79/shoe_inventory.git
 3. **Run** the **inventory.py** file:
 
 ```sh
-python inventory.py
+python3 inventory.py
 ```
 
 #### File Structure   
